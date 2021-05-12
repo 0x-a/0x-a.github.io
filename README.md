@@ -1,1 +1,1 @@
-# 0x-a.github.io/
+# 0x-a.github.io
